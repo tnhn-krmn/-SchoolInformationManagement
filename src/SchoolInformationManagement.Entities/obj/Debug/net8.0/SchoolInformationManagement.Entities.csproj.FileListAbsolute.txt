@@ -1,0 +1,15 @@
+C:\Users\tunah\Pictures\SchoolInformationManagement\src\SchoolInformationManagement.Entities\obj\Debug\net8.0\SchoolInformationManagement.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tunah\Pictures\SchoolInformationManagement\src\SchoolInformationManagement.Entities\obj\Debug\net8.0\SchoolInformationManagement.Entities.AssemblyInfoInputs.cache
+C:\Users\tunah\Pictures\SchoolInformationManagement\src\SchoolInformationManagement.Entities\obj\Debug\net8.0\SchoolInformationManagement.Entities.AssemblyInfo.cs
+C:\Users\tunah\Pictures\SchoolInformationManagement\src\SchoolInformationManagement.Entities\obj\Debug\net8.0\SchoolInformationManagement.Entities.csproj.CoreCompileInputs.cache
+C:\Users\tunah\Pictures\SchoolInformationManagement\src\SchoolInformationManagement.Entities\bin\Debug\net8.0\SchoolInformationManagement.Entities.deps.json
+C:\Users\tunah\Pictures\SchoolInformationManagement\src\SchoolInformationManagement.Entities\bin\Debug\net8.0\SchoolInformationManagement.Entities.dll
+C:\Users\tunah\Pictures\SchoolInformationManagement\src\SchoolInformationManagement.Entities\bin\Debug\net8.0\SchoolInformationManagement.Entities.pdb
+C:\Users\tunah\Pictures\SchoolInformationManagement\src\SchoolInformationManagement.Entities\bin\Debug\net8.0\SchoolInformationManagement.Core.dll
+C:\Users\tunah\Pictures\SchoolInformationManagement\src\SchoolInformationManagement.Entities\bin\Debug\net8.0\SchoolInformationManagement.Core.pdb
+C:\Users\tunah\Pictures\SchoolInformationManagement\src\SchoolInformationManagement.Entities\obj\Debug\net8.0\SchoolInformationManagement.Entities.csproj.AssemblyReference.cache
+C:\Users\tunah\Pictures\SchoolInformationManagement\src\SchoolInformationManagement.Entities\obj\Debug\net8.0\SchoolIn.57CF7CE1.Up2Date
+C:\Users\tunah\Pictures\SchoolInformationManagement\src\SchoolInformationManagement.Entities\obj\Debug\net8.0\SchoolInformationManagement.Entities.dll
+C:\Users\tunah\Pictures\SchoolInformationManagement\src\SchoolInformationManagement.Entities\obj\Debug\net8.0\refint\SchoolInformationManagement.Entities.dll
+C:\Users\tunah\Pictures\SchoolInformationManagement\src\SchoolInformationManagement.Entities\obj\Debug\net8.0\SchoolInformationManagement.Entities.pdb
+C:\Users\tunah\Pictures\SchoolInformationManagement\src\SchoolInformationManagement.Entities\obj\Debug\net8.0\ref\SchoolInformationManagement.Entities.dll
